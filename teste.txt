@@ -1,2 +1,3 @@
 teste linha 1
 teste linha 2 - github
+teste linha 3
